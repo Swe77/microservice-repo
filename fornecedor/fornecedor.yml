@@ -2,7 +2,7 @@ spring:
   datasource:
     password: root
     username: root
-    url: jdbc:mysql://localhost:3306/flora_fornecedor?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/microservice_fornecedor?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
   jpa:
     hibernate:
       ddl-auto: update
